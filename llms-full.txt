@@ -6,20 +6,22 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Emergency Bankruptcy Filing to Stop Garnishment -- Garnishedwages
+## Emergency Bankruptcy Filing to Stop Garnishment - Garnishedwages
 Source: https://garnishedwages.org/emergency-filing.html
 
 garnishedwages.org
 
 1328f.com1328f.org
 
-Wage Garnishment and Bankruptcy -- Stop the Garnishment
+Wage Garnishment and Bankruptcy - Stop the Garnishment
 
 Free guide to stopping wage garnishment through bankruptcy. The automatic stay, exemptions, and how to protect your paycheck.
 
+Home›Wage Garnishment and Bankruptcy›Wage Garnishment and Bankruptcy - Stop the Garnishment
+
 What Is an Emergency Filing?
 
-If your next paycheck is about to be garnished, you can file a "bare petition" -- just the petition form (Official Form 101) without the full schedules. This triggers the automatic stay immediately, stopping all garnishments.
+If your next paycheck is about to be garnished, you can file a "bare petition" - just the petition form (Official Form 101) without the full schedules. This triggers the automatic stay immediately, stopping all garnishments.
 
 The 14-Day Deadline
 
@@ -43,15 +45,19 @@ Debt Collection Lawsuit Defense
 
 Debt Statute of Limitations
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Further Reading & Resources
 
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -134,7 +140,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Exempt Income from Wage Garnishment in Bankruptcy -- Garnishedwages
+## Exempt Income from Wage Garnishment in Bankruptcy - Garnishedwages
 Source: https://garnishedwages.org/exempt-income.html
 
 Skip to main content
@@ -149,25 +155,27 @@ Head of Household
 Timeline
 vs Payment Plan
 
-Exempt Income -- What Cannot Be Garnished
+Exempt Income - What Cannot Be Garnished
 
 Certain types of income are protected from garnishment under federal and state law, even without filing bankruptcy.
+
+Home›Wage Garnishment and Bankruptcy›Exempt Income - What Cannot Be Garnished
 
 Federally Protected Income
 
 Certain types of income are protected from garnishment by federal law, even without filing bankruptcy:
 
-Social Security benefits -- Protected under 42 U.S.C. Section 407
+Social Security benefits - Protected under 42 U.S.C. Section 407
 
-Social Security Disability (SSDI) -- Same protection as regular Social Security
+Social Security Disability (SSDI) - Same protection as regular Social Security
 
-SSI (Supplemental Security Income) -- Fully exempt
+SSI (Supplemental Security Income) - Fully exempt
 
-Veterans' benefits -- Protected under 38 U.S.C. Section 5301
+Veterans' benefits - Protected under 38 U.S.C. Section 5301
 
-Federal employee retirement (CSRS/FERS) -- Protected under 5 U.S.C. Section 8346
+Federal employee retirement (CSRS/FERS) - Protected under 5 U.S.C. Section 8346
 
-Railroad Retirement benefits -- Protected under 45 U.S.C. Section 231m
+Railroad Retirement benefits - Protected under 45 U.S.C. Section 231m
 
 Exceptions: Federal taxes, child support, alimony, and certain government debts can still be garnished from otherwise protected income. Student loan garnishment of Social Security was recently restricted.
 
@@ -175,27 +183,27 @@ State Exemptions
 
 Each state has its own exemption laws that may protect additional income and assets from garnishment:
 
-Wages -- Federal law limits garnishment to 25% of disposable earnings. Many states impose lower limits.
+Wages - Federal law limits garnishment to 25% of disposable earnings. Many states impose lower limits.
 
-Head of household -- Several states (notably Florida) provide 100% wage protection for heads of household
+Head of household - Several states (notably Florida) provide 100% wage protection for heads of household
 
-Workers' compensation -- Most states exempt workers' comp benefits
+Workers' compensation - Most states exempt workers' comp benefits
 
-Unemployment benefits -- Generally exempt under state law
+Unemployment benefits - Generally exempt under state law
 
-Public assistance -- Welfare, food assistance, and similar benefits are typically exempt
+Public assistance - Welfare, food assistance, and similar benefits are typically exempt
 
 How Bankruptcy Adds Protection
 
 Filing bankruptcy provides additional layers of protection beyond what exemption law alone offers:
 
-The automatic stay stops all garnishment immediately -- including garnishments on non-exempt income
+The automatic stay stops all garnishment immediately - including garnishments on non-exempt income
 
 Bankruptcy exemptions protect property and income from the bankruptcy estate
 
 Discharge eliminates the underlying debt, making future garnishment impossible
 
-Even if your income is partially exempt from garnishment under state law, bankruptcy can eliminate the debt entirely -- providing permanent protection rather than partial protection.
+Even if your income is partially exempt from garnishment under state law, bankruptcy can eliminate the debt entirely - providing permanent protection rather than partial protection.
 
 Related: Head of household exemption | Chapter 7 vs. Chapter 13
 
@@ -207,9 +215,9 @@ Subscribe
 
 Related Resources
 
-automaticstay.org -- Automatic stay protection
+automaticstay.org - Automatic stay protection
 
-chapter7vs13.org -- Chapter comparison
+chapter7vs13.org - Chapter comparison
 
 Related Guides
 
@@ -221,15 +229,19 @@ Debt Collection Lawsuit Defense
 
 Debt Statute of Limitations
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Further Reading & Resources
 
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -323,16 +335,18 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Getting Garnished Money Back in Bankruptcy -- Garnishedwages
+## Getting Garnished Money Back in Bankruptcy - Garnishedwages
 Source: https://garnishedwages.org/getting-money-back.html
 
 garnishedwages.org
 
 1328f.com1328f.org
 
-Wage Garnishment and Bankruptcy -- Stop the Garnishment
+Wage Garnishment and Bankruptcy - Stop the Garnishment
 
 Free guide to stopping wage garnishment through bankruptcy. The automatic stay, exemptions, and how to protect your paycheck.
+
+Home›Wage Garnishment and Bankruptcy›Wage Garnishment and Bankruptcy - Stop the Garnishment
 
 The 90-Day Preference Window
 
@@ -369,10 +383,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -455,7 +469,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Head of Household Garnishment Exemption -- Garnishedwages
+## Head of Household Garnishment Exemption - Garnishedwages
 Source: https://garnishedwages.org/head-of-household.html
 
 Skip to main content
@@ -474,6 +488,8 @@ Head of Household Garnishment Exemption
 
 Several states protect 100% of wages for heads of household. How to qualify and how to claim the exemption.
 
+Home›Wage Garnishment and Bankruptcy›Head of Household Garnishment Exemption
+
 How It Works
 
 The head of household garnishment exemption provides 100% wage protection for individuals who provide more than half the financial support for a child or dependent. When the exemption applies, creditors cannot garnish any portion of the debtor's earnings.
@@ -490,7 +506,7 @@ Provide more than 50% of the financial support for at least one dependent
 
 The dependent can be a child, spouse, parent, or other person who relies on you financially
 
-The support must be ongoing -- not a one-time contribution
+The support must be ongoing - not a one-time contribution
 
 The definition varies by state. In some states, you must be the primary breadwinner. In others, you simply need to provide more than half the support for any dependent.
 
@@ -514,7 +530,7 @@ Act quickly. After receiving a garnishment notice, you typically have a short wi
 
 File a claim of exemption with the court that issued the garnishment order
 
-Provide documentation of dependent status -- birth certificates, tax returns showing dependents, school records
+Provide documentation of dependent status - birth certificates, tax returns showing dependents, school records
 
 Attend the hearing if the creditor contests the exemption
 
@@ -530,9 +546,9 @@ Subscribe
 
 Related Resources
 
-automaticstay.org -- Automatic stay
+automaticstay.org - Automatic stay
 
-howtofilebankruptcy.org -- Filing guide
+howtofilebankruptcy.org - Filing guide
 
 Related Guides
 
@@ -549,10 +565,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -646,7 +662,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Wage Garnishment -- How to Stop It [2026] -- Garnishedwages
+## Wage Garnishment - How to Stop It [2026] - Garnishedwages
 Source: https://garnishedwages.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -663,7 +679,7 @@ Head of Household
 Timeline
 vs Payment Plan
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Wage Garnishment
 
@@ -677,11 +693,11 @@ The automatic stay stops: Wage garnishments, bank levies, lawsuits, foreclosures
 
 Exceptions
 
-Child support and alimony -- Continue despite the stay (Section 362(b)(2))
+Child support and alimony - Continue despite the stay (Section 362(b)(2))
 
-Some tax garnishments -- IRS can sometimes continue certain actions
+Some tax garnishments - IRS can sometimes continue certain actions
 
-Criminal restitution -- Generally not affected
+Criminal restitution - Generally not affected
 
 Repeat filers: If you had a case dismissed within the past year, the stay may be limited (362(c)(3)) or absent (362(c)(4)). See stay limits.
 
@@ -695,7 +711,7 @@ Send written notice of filing to employer and creditor
 
 Keep records of every paycheck showing continued garnishment
 
-Ask the court to enforce the stay -- recover damages under Section 362(k)
+Ask the court to enforce the stay - recover damages under Section 362(k)
 
 Guide to stay violations →
 
@@ -732,11 +748,11 @@ Subscribe
 
 Related Resources
 
-automatic stay protection in bankruptcy -- Complete guide to the automatic stay
+automatic stay protection in bankruptcy - Complete guide to the automatic stay
 
-relief from stay motions -- When creditors ask to lift the stay
+relief from stay motions - When creditors ask to lift the stay
 
-step-by-step bankruptcy filing guide -- Step-by-step filing guide
+step-by-step bankruptcy filing guide - Step-by-step filing guide
 
 Related Guides
 
@@ -753,10 +769,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -801,7 +817,7 @@ debtbuyerrights.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -951,10 +967,13 @@ garnishedwages.org
 howtofilebankruptcy.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -976,7 +995,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Stop Wage Garnishment with Bankruptcy -- How It Works -- Garnishedwages
+## Stop Wage Garnishment with Bankruptcy - How It Works - Garnishedwages
 Source: https://garnishedwages.org/stop-garnishment.html
 
 Skip to main content
@@ -995,7 +1014,9 @@ Stop Wage Garnishment with Bankruptcy
 
 Filing a bankruptcy petition triggers the automatic stay under Section 362, immediately halting most wage garnishments.
 
-The Automatic Stay -- Immediate Protection
+Home›Wage Garnishment and Bankruptcy›Stop Wage Garnishment with Bankruptcy
+
+The Automatic Stay - Immediate Protection
 
 The moment a bankruptcy petition is filed, Section 362 of the Bankruptcy Code creates an automatic stay that immediately halts most collection actions, including wage garnishment. No motion is needed. No court hearing is required. The stay is automatic and effective upon filing.
 
@@ -1035,7 +1056,7 @@ The stay takes effect immediately upon filing
 
 You have 14 days to file remaining schedules, statements, and certificates
 
-An emergency filing is appropriate when you cannot wait for a full filing -- for example, if your next paycheck will be garnished and you need protection today.
+An emergency filing is appropriate when you cannot wait for a full filing - for example, if your next paycheck will be garnished and you need protection today.
 
 Related: Step-by-step filing guide | Complete automatic stay guide
 
@@ -1047,9 +1068,9 @@ Subscribe
 
 Related Resources
 
-automaticstay.org -- Complete automatic stay guide
+automaticstay.org - Complete automatic stay guide
 
-howtofilebankruptcy.org -- Filing guide
+howtofilebankruptcy.org - Filing guide
 
 Related Guides
 
@@ -1066,10 +1087,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1163,7 +1184,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## How Fast Does Bankruptcy Stop Garnishment? -- Timeline -- Garnishedwages
+## How Fast Does Bankruptcy Stop Garnishment? - Timeline - Garnishedwages
 Source: https://garnishedwages.org/timeline.html
 
 Skip to main content
@@ -1182,11 +1203,13 @@ How Fast Does Bankruptcy Stop Garnishment?
 
 The automatic stay takes effect the same day the petition is filed. Here is the practical timeline.
 
+Home›Wage Garnishment and Bankruptcy›How Fast Does Bankruptcy Stop Garnishment?
+
 Day-by-Day Timeline
 
 DayWhat Happens
 
-Day 0 -- FilingPetition filed. Automatic stay takes effect immediately. Garnishment is legally stopped.
+Day 0 - FilingPetition filed. Automatic stay takes effect immediately. Garnishment is legally stopped.
 
 Day 0-1Attorney (or you) notifies employer and creditor in writing. Provide case number and filing date.
 
@@ -1212,11 +1235,11 @@ Emergency Situations
 
 If your paycheck is being garnished today and you cannot wait:
 
-File an emergency petition -- Just the basic petition form and the filing fee. The stay takes effect immediately.
+File an emergency petition - Just the basic petition form and the filing fee. The stay takes effect immediately.
 
-Notify the employer immediately -- By phone, email, and written letter. The key information is: "I filed bankruptcy today, case number [X], in [court]. The automatic stay is in effect."
+Notify the employer immediately - By phone, email, and written letter. The key information is: "I filed bankruptcy today, case number [X], in [court]. The automatic stay is in effect."
 
-Follow up in writing -- Send formal notice with the case number, court name, and filing date
+Follow up in writing - Send formal notice with the case number, court name, and filing date
 
 You have 14 days to file the remaining bankruptcy documents (schedules, statements, certificates) after an emergency filing.
 
@@ -1230,9 +1253,9 @@ Subscribe
 
 Related Resources
 
-automaticstay.org -- Automatic stay details
+automaticstay.org - Automatic stay details
 
-howtofilebankruptcy.org -- Emergency filing
+howtofilebankruptcy.org - Emergency filing
 
 Related Guides
 
@@ -1249,10 +1272,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1346,7 +1369,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Wage Garnishment vs Bankruptcy -- Which Is Better? -- Garnishedwages
+## Wage Garnishment vs Bankruptcy - Which Is Better? - Garnishedwages
 Source: https://garnishedwages.org/vs-payment-plan.html
 
 Skip to main content
@@ -1361,9 +1384,11 @@ Head of Household
 Timeline
 vs Payment Plan
 
-Garnishment vs. Bankruptcy -- Which Is Better?
+Garnishment vs. Bankruptcy - Which Is Better?
 
 Garnishment takes 25% of your paycheck indefinitely. Bankruptcy provides a defined path to complete relief. Compare the options.
+
+Home›Wage Garnishment and Bankruptcy›Garnishment vs. Bankruptcy - Which Is Better?
 
 Side-by-Side Comparison
 
@@ -1373,15 +1398,15 @@ Amount takenUp to 25% of disposable earnings$0 (garnishment stops)
 
 DurationUntil debt fully paid (years)Ch.7: 3-4 months. Ch.13: 3-5 years.
 
-Interest continues?Yes -- debt grows while garnishedNo -- debt eliminated at discharge
+Interest continues?Yes - debt grows while garnishedNo - debt eliminated at discharge
 
-Other debts addressed?No -- only the garnishing creditorYes -- all eligible debts discharged
+Other debts addressed?No - only the garnishing creditorYes - all eligible debts discharged
 
 Credit impactJudgment + garnishment on recordBankruptcy on record 7-10 years
 
 Cost$0 upfront, but total cost is full debt + interest$1,500-$2,500 (Ch.7) or $3,000-$6,000 (Ch.13)
 
-Fresh startNo -- only one debt addressedYes -- comprehensive debt relief
+Fresh startNo - only one debt addressedYes - comprehensive debt relief
 
 The Real Cost of Garnishment
 
@@ -1391,13 +1416,13 @@ Garnishment looks "free" because there is no upfront cost. But the true cost is 
 
 Interest continues accumulating on the unpaid balance
 
-Only one debt is addressed -- if you owe multiple creditors, others can also garnish
+Only one debt is addressed - if you owe multiple creditors, others can also garnish
 
-No relief from other debts -- medical bills, credit cards, and other obligations remain
+No relief from other debts - medical bills, credit cards, and other obligations remain
 
-Psychological toll -- the uncertainty of not knowing when it will end
+Psychological toll - the uncertainty of not knowing when it will end
 
-Example: A $10,000 judgment at 10% interest, with 25% garnishment of $3,000/month take-home pay: $750/month garnished. It takes approximately 15 months to pay off -- during which you pay $1,250+ in interest. A Chapter 7 would eliminate the entire debt in 3-4 months for approximately $1,800 total.
+Example: A $10,000 judgment at 10% interest, with 25% garnishment of $3,000/month take-home pay: $750/month garnished. It takes approximately 15 months to pay off - during which you pay $1,250+ in interest. A Chapter 7 would eliminate the entire debt in 3-4 months for approximately $1,800 total.
 
 When Bankruptcy Is the Better Choice
 
@@ -1407,7 +1432,7 @@ High-interest debt: If interest is accumulating faster than garnishment is payin
 
 Other collection actions: If you face lawsuits, repossession, or foreclosure in addition to garnishment.
 
-Need a fresh start: Bankruptcy provides a defined endpoint and discharge -- garnishment just reduces one debt slowly.
+Need a fresh start: Bankruptcy provides a defined endpoint and discharge - garnishment just reduces one debt slowly.
 
 The key question: Will you be debt-free faster through garnishment or through bankruptcy? In most cases, bankruptcy provides faster, more complete relief at a lower total cost.
 
@@ -1433,9 +1458,9 @@ Subscribe
 
 Related Resources
 
-chapter7vs13.org -- Chapter comparison
+chapter7vs13.org - Chapter comparison
 
-howtofilebankruptcy.org -- Filing guide
+howtofilebankruptcy.org - Filing guide
 
 Related Guides
 
@@ -1452,10 +1477,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1546,3 +1571,75 @@ This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptc
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - garnishedwages.org
+Source: https://garnishedwages.org/privacy.html
+
+garnishedwages.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
